@@ -7,7 +7,7 @@ APIs to be able to query the media that's currently playing. This application
 doesn't actually play any media itself, it merely displays the information
 provided from another application. So if you're using an app like Spotify or
 iTunes that uses the system media transport controls (SMTC) to share information
-about the currently playing media, this appllication will be able to display
+about the currently playing media, this application will be able to display
 that information.
 
 
